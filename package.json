@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-kumaraswamy-pdf",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Kumaraswamy's double bounded distribution probability density function (PDF).",
   "license": "Apache-2.0",
   "author": {
