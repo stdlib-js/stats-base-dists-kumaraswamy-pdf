@@ -1,0 +1,34 @@
+{
+  "name": "@stdlib/stats-base-dists-kumaraswamy-pdf",
+  "version": "0.0.0",
+  "description": "Kumaraswamy's double bounded distribution probability density function (PDF).",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-kumaraswamy-pdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "probability",
+    "prob",
+    "pdf",
+    "density",
+    "kumaraswamy",
+    "univariate",
+    "continuous"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
