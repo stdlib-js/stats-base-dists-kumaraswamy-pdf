@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-31)
+## Unreleased (2026-11-01)
+
+<section class="features">
+
+### Features
+
+-   [`dcf6e6a`](https://github.com/stdlib-js/stdlib/commit/dcf6e6adf19e93db2d6e8931f9b511442f90286b) - add C implementation for stats/base/dists/kumaraswamy/pdf
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`dcf6e6a`](https://github.com/stdlib-js/stdlib/commit/dcf6e6adf19e93db2d6e8931f9b511442f90286b) - **feat:** add C implementation for stats/base/dists/kumaraswamy/pdf _(by Philipp Burckhardt)_
 -   [`6e9254b`](https://github.com/stdlib-js/stdlib/commit/6e9254b32595b7c8e5f3eb3e06a697c67e1a4055) - **docs:** add missing empty `notes` section blocks [(#12564)](https://github.com/stdlib-js/stdlib/pull/12564) _(by Philipp Burckhardt)_
 
 </details>
